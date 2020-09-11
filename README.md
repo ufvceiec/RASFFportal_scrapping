@@ -7,6 +7,7 @@ Python script to download the complete information of all the notifications avai
 - selenium
 - csv
 - time
+- firefox web browser
 
 **Contact**:\
 Responsible: Alberto Nogales (alberto.nogales@ceiec.es)\
